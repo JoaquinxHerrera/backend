@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "title": "computadora",
+    "description": "computadora dell",
+    "price": 12,
+    "thumbnail": "no img",
+    "code": 12,
+    "stock": 2
+  },
+  {
+    "id": 2,
+    "title": "golf",
+    "description": "golf volkswagen",
+    "price": 150,
+    "thumbnail": "no img",
+    "code": 13,
+    "stock": 30
+  },
+  {
+    "id": 3,
+    "title": "Protein GoldStandard",
+    "description": "3kg Protein",
+    "price": 50,
+    "thumbnail": "no img",
+    "code": 14,
+    "stock": 25
+  }
+]
+  {
+    "id": 4,
+    "title": "Jordans classic",
+    "description": "Best OG sneakers",
+    "price": 120,
+    "thumbnail": "no img",
+    "code": 15,
+    "stock": 21
+  }
+]
